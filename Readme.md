@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--              CYBERPUNK PROFILE — Ditt0676               -->
@@ -21,7 +21,6 @@
 class Ditt0676:
     """Navigating The Grid — one commit at a time"""
 
-    alias     = "Carrera_dev"
     status    = "online"
     level     = "Junior // Learning"
     location  = "The Grid"
@@ -43,7 +42,7 @@ class Ditt0676:
 
 <br>
 
-### `> STACK` —list
+<h3 align="center"><code>&gt; STACK</code> —list</h3>
 
 <br>
 
@@ -64,27 +63,7 @@ class Ditt0676:
 
 <br>
 
-### `> SOCIAL` —connect
-
-<br>
-
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0ff0fc" />
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff2d78" />
-</a>
-<a href="https://discord.com/users/your-id">
-  <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=f5c518" />
-</a>
-
-<br>
-
----
-
-<br>
-
-### `> PROJECTS` —showcase
+<h3 align="center"><code>&gt; PROJECTS</code> —showcase</h3>
 
 <br>
 
@@ -104,7 +83,5 @@ class Ditt0676:
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2d78,50:0ff0fc,100:0d0d0d&height=120&section=footer&text=%3E_%20EOF&fontSize=22&fontColor=0ff0fc&animation=glitch" />
-
-</div>
 
 </div>
