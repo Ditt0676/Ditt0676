@@ -1,11 +1,13 @@
-<div align="center">
+<<div align="center">
 
-<!-- Cyberpunk Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0ff0fc,100:ff2d78&height=220&section=header&text=%3E_%20INITIALIZING...&fontSize=42&fontColor=0ff0fc&fontAlignY=40&animation=glitch&desc=Junior%20Dev%20%2F%2F%20Python%20%7C%20Go%20%7C%20JS%20%2F%2F%20Exploring%20the%20Grid&descAlignY=62&descSize=14&descColor=ff2d78" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              CYBERPUNK PROFILE — Ditt0676               -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0ff0fc,100:ff2d78&height=220&section=header&text=%3E_%20INITIALIZING...&fontSize=42&fontColor=0ff0fc&fontAlignY=38&animation=glitch&desc=Ditt0676%20%7C%20Junior%20Developer%20%7C%20The%20Grid&descAlignY=60&descSize=16&descColor=ff2d78" />
 
-<!-- Glitch quote -->
+<br>
+
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  "First, solve the problem. Then, write the code."   ║
@@ -13,71 +15,96 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-<!-- About -->
-<table>
-<tr>
-<td align="left">
+<br>
 
 ```python
-class Developer:
-    name      = "Carrera_dev"
-    status    = "🟢 online"
+class Ditt0676:
+    """Navigating The Grid — one commit at a time"""
+
+    alias     = "Carrera_dev"
+    status    = "online"
     level     = "Junior // Learning"
     location  = "The Grid"
 
     stack = {
-        "mastering"  : "Python",
-        "learning"   : ["Go", "JavaScript"],
-        "editor"     : "VS Code",
-        "mindset"    : "ship fast, learn faster"
+        "mastering" : "Python",
+        "learning"  : ["Go", "JavaScript"],
+        "editor"    : "VS Code",
+        "vibe"      : "build > talk"
     }
 
     def mission(self):
         return "Explore. Build. Iterate."
 ```
 
-</td>
-</tr>
-</table>
-
-<br/>
+<br>
 
 ---
 
-### `> TECH.STACK --list`
+<br>
 
-<br/>
+### `> STACK` —list
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-0ff0fc?style=for-the-badge&logo=python&logoColor=0d0d0d)
-![Go](https://img.shields.io/badge/Go-ff2d78?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f5c518?style=for-the-badge&logo=javascript&logoColor=0d0d0d)
+<br>
 
-<!-- Tools -->
-![VS Code](https://img.shields.io/badge/VS%20Code-0ff0fc?style=for-the-badge&logo=visual-studio-code&logoColor=0d0d0d)
-![GitHub](https://img.shields.io/badge/GitHub-ff2d78?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-f5c518?style=for-the-badge&logo=gnubash&logoColor=0d0d0d)
+<!-- Languages — dark bg, neon icons -->
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=0ff0fc" />
+<img src="https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff2d78" />
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=f5c518" />
 
-<br/>
+<br>
 
----
+<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=0ff0fc" />
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff2d78" />
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=f5c518" />
 
-### `> GITHUB.STATS --verbose`
-
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carrera_dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&icon_color=ff2d78&text_color=ffffff&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrera_dev&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&text_color=ffffff"/>
-
-<br/>
+<br>
 
 ---
 
-<!-- Footer -->
+<br>
+
+### `> SOCIAL` —connect
+
+<br>
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0ff0fc" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff2d78" />
+</a>
+<a href="https://discord.com/users/your-id">
+  <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=f5c518" />
+</a>
+
+<br>
+
+---
+
+<br>
+
+### `> PROJECTS` —showcase
+
+<br>
+
+<a href="https://github.com/Ditt0676/Finance-Dashboard">
+  <img src="https://img.shields.io/badge/Finance_Dashboard-0d0d0d?style=for-the-badge&logo=github&logoColor=0ff0fc" />
+</a>
+
+<br>
+<br>
+
+---
+
+<br>
+
+> _"...the streets are extended gutters and the gutters are full of code."_
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2d78,50:0ff0fc,100:0d0d0d&height=120&section=footer&text=%3E_%20EOF&fontSize=22&fontColor=0ff0fc&animation=glitch" />
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Carrera_dev.Carrera_dev&left_color=0d0d0d&right_color=0ff0fc&left_text=visitors)
+</div>
 
 </div>
