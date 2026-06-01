@@ -4,16 +4,13 @@
 <!--              CYBERPUNK PROFILE — Ditt0676               -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0ff0fc,100:ff2d78&height=220&section=header&text=%3E_%20INITIALIZING...&fontSize=42&fontColor=0ff0fc&fontAlignY=38&animation=glitch&desc=Ditt0676%20%7C%20Junior%20Developer%20%7C%20The%20Grid&descAlignY=60&descSize=16&descColor=ff2d78" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,33:ff0044,66:7b2ff7,100:0ff0fc&height=220&section=header&text=%3E_%20INITIALIZING...&fontSize=42&fontColor=f5c518&fontAlignY=38&animation=glitch&desc=Junior%20Developer%20%7C%20The%20Grid&descAlignY=60&descSize=16&descColor=0ff0fc" />
 
 <br>
 
-```
-╔══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."   ║
-║                                        — John Johnson ║
-╚══════════════════════════════════════════════════════╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0FF0FC&size=18&center=true&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;%E2%80%94+John+Johnson" alt="Typing SVG" />
+</a>
 
 <br>
 
@@ -79,9 +76,5 @@ class Ditt0676:
 <br>
 
 > _"...the streets are extended gutters and the gutters are full of code."_
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2d78,50:0ff0fc,100:0d0d0d&height=120&section=footer&text=%3E_%20EOF&fontSize=22&fontColor=0ff0fc&animation=glitch" />
 
 </div>
