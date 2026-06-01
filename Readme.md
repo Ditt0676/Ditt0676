@@ -4,7 +4,7 @@
 <!--              CYBERPUNK PROFILE — Ditt0676               -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,33:ff0044,66:7b2ff7,100:0ff0fc&height=220&section=header&text=%3E_%20INITIALIZING...&fontSize=42&fontColor=f5c518&fontAlignY=38&animation=glitch&desc=Junior%20Developer%20%7C%20The%20Grid&descAlignY=60&descSize=16&descColor=0ff0fc" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:ff2d78,100:0ff0fc&height=220&section=header&text=%3E_%20INITIALIZING...&fontSize=42&fontColor=f5c518&fontAlignY=38&animation=glitch&desc=Junior%20Developer%20%7C%20The%20Grid&descAlignY=60&descSize=16&descColor=0ff0fc" />
 
 <br>
 
@@ -13,6 +13,8 @@
 </a>
 
 <br>
+
+<table><tr><td>
 
 ```python
 class Ditt0676:
@@ -32,6 +34,8 @@ class Ditt0676:
     def mission(self):
         return "Explore. Build. Iterate."
 ```
+
+</td></tr></table>
 
 <br>
 
